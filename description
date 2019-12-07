@@ -1,2 +1,5 @@
 The Dataset used is from Kaggle, which contains around 25000 images which is then classified into 6 different classes using
 HOG feautres for SVM and 13 layers for CNN Model. The accuracy of 77% and 83% was achieved.
+
+
+Project Report will be added soon for better understanding

@@ -10,3 +10,7 @@ The model was trained to achieve 77% accuracy for predicting the classes of the 
 
 # CNN
 The Deep Learning was used for classification using CNN. The model was trained with 13 layers to achieve the Prediction Accuracy of 83%
+
+
+# Link to the Dataset
+https://www.kaggle.com/puneet6060/intel-image-classification/download

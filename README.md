@@ -7,7 +7,7 @@ The dataset used is from Kaggle ( Originally Presented in AnalyticsVidya competi
 The features for SVM Model was extracted using HOG( Histogram of Oriented Gradient ) Features.
 
 # SVM
-The model was trained to achieve 77% accuracy for predicting the classes of the images
+The model was trained to achieve 41% accuracy for predicting the classes of the images
 
 # CNN
 The CNN was implemented for classification using Tensorflow and Keras. The model was trained with 13 layers to achieve the Prediction Accuracy of 83%
